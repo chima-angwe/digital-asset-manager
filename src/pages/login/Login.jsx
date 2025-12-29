@@ -118,23 +118,6 @@ const Login = () => {
               )}
             </button>
           </form>
-
-          {/* Demo Credentials */}
-          <div className="demo-credentials">
-            <p className="demo-title">Demo Credentials:</p>
-            <div className="demo-grid">
-              <div className="demo-card">
-                <p className="demo-role">Admin</p>
-                <p className="demo-email">admin@dam.com</p>
-                <p className="demo-password">admin123</p>
-              </div>
-              <div className="demo-card">
-                <p className="demo-role">Guest</p>
-                <p className="demo-email">guest@dam.com</p>
-                <p className="demo-password">guest123</p>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
